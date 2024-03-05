@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\arrayStack_test.dir/objects.a
+C:\Strawberry\c\bin\ar.exe qc CMakeFiles\arrayStack_test.dir/objects.a @CMakeFiles\arrayStack_test.dir\objects1
+C:\Strawberry\c\bin\c++.exe -Wl,--whole-archive CMakeFiles\arrayStack_test.dir/objects.a -Wl,--no-whole-archive -o arrayStack_test.exe -Wl,--out-implib,libarrayStack_test.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\arrayStack_test.dir\linkLibs.rsp

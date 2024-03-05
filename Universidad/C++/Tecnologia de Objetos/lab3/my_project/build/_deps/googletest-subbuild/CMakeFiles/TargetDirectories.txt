@@ -1,0 +1,3 @@
+C:/Carpeta de Trabajo/Repositorio Local/TO/TO_UNSA/lab3/my_project/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Carpeta de Trabajo/Repositorio Local/TO/TO_UNSA/lab3/my_project/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/Carpeta de Trabajo/Repositorio Local/TO/TO_UNSA/lab3/my_project/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

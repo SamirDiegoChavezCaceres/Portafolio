@@ -1,0 +1,56 @@
+/* General */
+   BODY {font-family: verdana, arial, sans-serif; font-size: 1em; margin: 0;}
+
+/* Titulares */
+   H1 {font-size: 1em; color: #003399; font-weight: bold; margin-top: 1em; }
+   H2 {font-size: 0.8em; color: black; font-weight: bold;}
+ 
+/* Logotipo */
+   IMG.logo {padding-left: 1em;}
+ 
+/* Lista de opciones del menú principal */
+   UL {list-style-type: none; margin-left: 0; padding-left: 0; margin-top: 2em;}
+   LI {margin-bottom: 0.2em; font-size: 0.8em; color: #000000; background: #FFFF99;
+      padding: 0.1em 0.2em;}
+      
+/* Lista de anuncios */
+   UL.anuncio {list-style-type: none; margin-left: 0; padding-left: 0; margin-top: 0;}
+   LI.anuncio {background: #FFFFFF;}
+   
+/* Noticias */
+   .noticia {background: white; border: 1px dotted blue;
+      margin-bottom: 1em; padding: 0.5em;}
+   P.textonoticia {font-size: 0.8em}
+   IMG.foto-noticia {float: right; margin-left: 0.5em; margin-top: -0.5em;}
+   .fecha {font-style: italic; font-weight: normal;}
+
+/* Enlaces */
+   A.enlace_idioma {font-size: 0.8em;}
+
+/* Textos destacados con SPAN */
+   .importante {color: #003399; font-weight: bold;}
+
+/* Dirección */
+   ADDRESS {font-size: 0.8em; padding-left: 1em;}
+ 
+/* Título */
+   #titulo {height: 74px; text-align: center; padding-top: 1em; background: #FFFF99;}
+
+/* Columna izquierda */
+   #menu {float: left; width: 100px; padding: 0em 0.5em; background: #FFFFFF;}
+
+/* Columna central */
+   #info {margin-left: 116px; margin-right: 146px; padding-left: 1em; background: #FFFFFF;}
+
+/* Columna derecha */
+   #derecha {float: right; width: 120px;
+     padding-top: 1em; padding-bottom: 1em; padding-left: 0.5em; text-align: center;}
+
+/* Pié */
+   #pie {text-align: center; padding: 0.3em; background: #E9EEF6;}   
+
+/* Contenedor */
+   #contenedor {}
+
+/* Bloque para igualar alto de las columnas */
+   #clear {clear: both;}   

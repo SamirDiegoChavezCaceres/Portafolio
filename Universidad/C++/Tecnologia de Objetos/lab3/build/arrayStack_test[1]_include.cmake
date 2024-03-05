@@ -1,0 +1,5 @@
+if(EXISTS "C:/Carpeta de Trabajo/Repositorio Local/TO/TO_UNSA/lab3/build/arrayStack_test[1]_tests.cmake")
+  include("C:/Carpeta de Trabajo/Repositorio Local/TO/TO_UNSA/lab3/build/arrayStack_test[1]_tests.cmake")
+else()
+  add_test(arrayStack_test_NOT_BUILT arrayStack_test_NOT_BUILT)
+endif()
