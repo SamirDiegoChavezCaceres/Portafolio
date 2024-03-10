@@ -1,0 +1,3 @@
+[submodule "Flask/python-flask-react"]
+	path = Flask/python-flask-react
+	url = https://github.com/SamirDiegoChavezCaceres/python-flask-react.git
