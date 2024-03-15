@@ -1,3 +1,6 @@
 [submodule "Flask/python-flask-react"]
 	path = Flask/python-flask-react
 	url = https://github.com/SamirDiegoChavezCaceres/python-flask-react.git
+[submodule "Django/ProyectoDjango/BD_TIENDA"]
+	path = Django/ProyectoDjango/BD_TIENDA
+	url = https://github.com/SamirDiegoChavezCaceres/BD_TIENDA.git
